@@ -5,7 +5,7 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 City Council Data for Philadelphia, PA
 ===
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/ity-council-ny-new-york/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/ity-council-ny-new-york.svg)](https://github.com/CivilServiceUSA/ity-council-ny-new-york/graphs/contributors)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/CivilServiceUSA/city-council-pa-philadelphia/master/LICENSE)  [![GitHub contributors](https://img.shields.io/github/contributors/CivilServiceUSA/city-council-pa-philadelphia.svg)](https://github.com/CivilServiceUSA/city-council-pa-philadelphia/graphs/contributors)
 
 ![Philadelphia, PA](city-council/images/backgrounds/640x360/city.jpg "Philadelphia, PA")
 
