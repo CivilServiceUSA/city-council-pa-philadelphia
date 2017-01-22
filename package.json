@@ -8,8 +8,8 @@
     "US",
     "United States",
     "City Council",
-    "New York",
-    "NY",
+    "Philadelphia",
+    "PA",
     "data",
     "json",
     "csv",
@@ -23,13 +23,13 @@
     "map"
   ],
   "cityData": {
-    "state_code": "NY",
-    "city_name": "New York",
-    "city_population": "8550405",
-    "city_website": "http://www.nycgo.com",
+    "state_code": "PA",
+    "city_name": "Philadelphia",
+    "city_population": "1567442",
+    "city_website": "http://phlcouncil.com",
     "public_records": "",
-    "latitude": "40.6643",
-    "longitude": "-73.9385"
+    "latitude": "40.0094",
+    "longitude": "-75.1333"
   },
   "main": "data/city-council.json",
   "homepage": "https://civilserviceusa.github.io/city-council-pa-philadelphia/",
